@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.citinterface.in/</loc>
+  <lastmod>2016-09-10T12:24:42+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.citinterface.in/index.html</loc>
+  <lastmod>2016-09-10T12:24:42+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.citinterface.in/event_reg.php</loc>
+</url>
+<url>
+  <loc>http://www.citinterface.in/workshp.php</loc>
+</url>
+<url>
+  <loc>http://www.citinterface.in/nontech.php</loc>
+</url>
+<url>
+  <loc>http://www.citinterface.in/workshop/androidd.pdf</loc>
+  <lastmod>2016-09-10T12:22:37+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.citinterface.in/reg_android.php</loc>
+</url>
+<url>
+  <loc>http://www.citinterface.in/workshop/iot.pdf</loc>
+  <lastmod>2016-09-10T12:22:40+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.citinterface.in/reg_iot.php</loc>
+</url>
+<url>
+  <loc>http://www.citinterface.in/workshop/cloud.pdf</loc>
+  <lastmod>2016-09-10T12:22:37+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.citinterface.in/reg_cloud.php</loc>
+</url>
+</urlset>

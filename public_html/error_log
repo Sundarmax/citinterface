@@ -1,0 +1,20 @@
+[10-Sep-2016 18:04:01 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/citinter/public_html/reg_android.php:172) in /home/citinter/public_html/reg_android.php on line 375
+[10-Sep-2016 18:07:16 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/citinter/public_html/reg_android.php:172) in /home/citinter/public_html/reg_android.php on line 389
+[10-Sep-2016 18:11:19 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/citinter/public_html/reg_android.php:172) in /home/citinter/public_html/reg_android.php on line 393
+[10-Sep-2016 18:17:11 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/citinter/public_html/reg_android.php on line 397
+[10-Sep-2016 18:17:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/citinter/public_html/reg_android.php on line 394
+[10-Sep-2016 18:17:51 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/citinter/public_html/reg_android.php on line 394
+[10-Sep-2016 18:23:48 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/citinter/public_html/reg_android.php:172) in /home/citinter/public_html/reg_android.php on line 375
+[10-Sep-2016 18:32:29 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/citinter/public_html/reg_android.php:172) in /home/citinter/public_html/reg_android.php on line 376
+[10-Sep-2016 18:36:14 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/citinter/public_html/event_reg.php:192) in /home/citinter/public_html/event_reg.php on line 478
+[10-Sep-2016 18:37:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=' in /home/citinter/public_html/reg_android.php on line 378
+[10-Sep-2016 18:38:31 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'type' (T_STRING), expecting ',' or ';' in /home/citinter/public_html/reg_android.php on line 377
+[10-Sep-2016 18:47:16 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/citinter/public_html/event_reg.php:192) in /home/citinter/public_html/event_reg.php on line 478
+[10-Sep-2016 18:48:08 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/citinter/public_html/event_reg.php:192) in /home/citinter/public_html/event_reg.php on line 478
+[10-Sep-2016 18:56:24 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/citinter/public_html/event_reg.php:192) in /home/citinter/public_html/event_reg.php on line 478
+[10-Sep-2016 18:56:38 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/citinter/public_html/event_reg.php:192) in /home/citinter/public_html/event_reg.php on line 478
+[10-Sep-2016 19:30:36 Asia/Kolkata] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/citinter/public_html/event_reg.php on line 460
+[10-Sep-2016 19:30:36 Asia/Kolkata] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/citinter/public_html/event_reg.php on line 462
+[10-Sep-2016 19:32:51 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/citinter/public_html/event_reg.php on line 545
+[10-Sep-2016 19:33:44 Asia/Kolkata] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home/citinter/public_html/event_reg.php on line 492
+[10-Sep-2016 19:33:44 Asia/Kolkata] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/citinter/public_html/event_reg.php on line 498
